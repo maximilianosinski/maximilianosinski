@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maximilianosinski
 - 👀 I’m interested in networking, artificial intelligence, web programming and desktop applications.
-- 🌱 I’m currently learning php, csharp, html, js and more.
+- 🌱 I’m currently learning php, sql, csharp, c++, html, js and more.
 - 📫 How to reach me? Just send me an email: maximilianosinski@maxeman.com
 
 <!---
